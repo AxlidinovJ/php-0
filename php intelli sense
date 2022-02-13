@@ -1,0 +1,4 @@
+php intelli sense
+gettype();
+is_string();
+is_int();
