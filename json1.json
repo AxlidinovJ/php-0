@@ -1,23 +1,17 @@
 {
     "salom": {
-        "status": false
+        "status": true
     },
     "jamshidbek": {
         "status": false
     },
-    "jahongir": {
-        "status": true
-    },
-    "farangiz": {
-        "status": true
-    },
     "telefon": {
         "status": false
     },
-    "qaless": {
-        "status": true
-    },
     "009": {
+        "status": false
+    },
+    "test": {
         "status": false
     }
 }
